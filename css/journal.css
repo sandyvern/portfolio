@@ -1202,8 +1202,8 @@ h3 small,
 h4 small,
 h5 small,
 h6 small,
-.
-h1 small,
+
+.h1 small,
 .h2 small,
 .h3 small,
 .h4 small,
@@ -2528,7 +2528,7 @@ input[type="search"] {
 input[type="radio"],
 input[type="checkbox"] {
   margin: 4px 0 0;
-  margin-top: 1px \9;
+  margin-top: 1px;
   line-height: normal;
 }
 input[type="file"] {
